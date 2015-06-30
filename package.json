@@ -1,0 +1,20 @@
+{
+  "name": "react-filter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Callister",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^5.6.15",
+    "babel-loader": "^5.2.2",
+    "babel-runtime": "^5.6.15",
+    "jest": "^0.1.40",
+    "jsx-loader": "^0.13.2",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.10.0"
+  }
+}
